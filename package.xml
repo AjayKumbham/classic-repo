@@ -5,6 +5,7 @@
         <members>ApexClass1</members>
         <members>ApexClassTest</members>
         <members>DemoClass</members>
+        <members>Test1</members>
         <members>devedapp__DeveloperEditionUtils</members>
         <members>devedapp__DeveloperEditionUtilsTest</members>
         <members>devedapp__PostInstallScript</members>
